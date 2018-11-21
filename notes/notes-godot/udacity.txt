@@ -1,0 +1,7 @@
+## Udacity Pytorch challenge ##
+
+Lesson 2 :
+AR : diff & complementaries of perception & gradient descent algo
+
+Lesson 4:
+revoir 

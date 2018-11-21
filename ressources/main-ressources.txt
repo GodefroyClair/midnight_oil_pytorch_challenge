@@ -1,0 +1,18 @@
+# Main resources for the Pytorch challenge
+
+Udacity course:
+https://www.udacity.com/facebook-pytorch-scholarship
+
+Course page:
+https://sites.google.com/udacity.com/pytorch-scholarship-facebook/home?authuser=0
+
+Study groups:
+https://docs.google.com/spreadsheets/d/1KvIZEejXZTvjGbU6pqihS_FwyTOpQC4Lz3oUyHANIIg/edit#gid=967417831
+
+Slack workspace:
+pytorchfbchallenge.slack.com
+
+Facebook page:
+
+Overleaf sumup of lesson 1:
+https://www.overleaf.com/read/cwfrhhbyxwdg

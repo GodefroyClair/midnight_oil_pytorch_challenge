@@ -1,0 +1,69 @@
+# Midnight Oil in Paris Group for the Pytorch Challenge
+# 1st meeting, 20/11/2018
+
+## Attended:
+
+- Mounib (slack id: @Mounib),
+- Zaccharia (@aloulen), 
+- Tiffany (@Tiffany Souterre),
+- Godefroy (@godot)
+
+## Introduction
+
+*Tiffany*:
+ 
+Work on data visualization and big data in a develop company. Biology/genetics background. Follower already other machine learning nanodegree on Udacity.
+Where she's at? lesson 6 but didn't do all the lesson
+
+*Aloulen*:
+
+PhD candidate in Computer Science working on linked data.
+Doing some MOOCs in deep learning on Udemy.
+Hasn't done much yet because he has to finish an article.
+
+*Mounib*:
+
+Student in first year of a bachelor degree in Computer Science.
+Working on lesson 3
+
+*Godefroy*:
+
+Free-lance Computer Vision developer for 2 months. Worked in robotics/iot before that. Followed machine learning MOOCS on Datacamp, Coursera, Udacity & Udemy.
+Finishing lesson 7
+
+## Ressources:
+
+- [Hands On Machine Learning, O'Reilly publisher from Aurélien Giron with Scikit-Learn and TensorFlow](http://shop.oreilly.com/product/0636920052289.do) (deep learning part translated [in French](https://numerique.dunod.com/805699/Deep-Learning-avec-TensorFlow.ebook))
+
+- [Learning Path on Safaribooksonline.com (not free!)] (LEARNING PATH: PyTorch: Deep Learning with PyTorch - Masterclass!)
+
+- Lesson 6 related : [A “paper” godot really recommend to check] (https://distill.pub/2018/differentiable-parameterizations)
+
+- Lesson 6 related : [Also this one is also interesting](https://distill.pub/2017/feature-visualization/)
+
+## Todo:
+
+- Create a github repo
+- Use markdown for texts, notebooks & python file to share code...
+- put the picture of the meeting on FB
+
+## What to do?
+
+- create a group (done)
+
+- pick a team leader (done: @olivier_sutter)
+
+- find some creative ideas
+
+- to be active on Slack channel
+
+- Cheatsheets?
+
+- Medium articles?
+
+## Next:
+
+- Thursday next week @18:30
+
+
+
