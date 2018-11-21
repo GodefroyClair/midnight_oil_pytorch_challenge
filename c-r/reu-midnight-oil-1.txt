@@ -41,17 +41,17 @@ Finishing lesson 7 - wants to do a quick first round and then rewatch the videos
 
 ## Todo:
 
-- Create a github repo
+- Create a github repo (done : https://github.com/GodefroyClair/midnight_oil_pytorch_challenge.git)
 - Use markdown for texts, notebooks & python file to share code...
-- put the picture of the meeting on FB
+- put the picture of the meeting on FB (done)
 
-## What to do?
+## Suggestions:
 
-- create a group (done)
+- create a group in the Google sheet of the Udacity (done: Midnight Oil in France)
 
 - pick a team leader (done: @olivier_sutter)
 
-- find some creative ideas
+- find some creative ideas!!
 
 - to be active on Slack channel
 
@@ -61,7 +61,4 @@ Finishing lesson 7 - wants to do a quick first round and then rewatch the videos
 
 ## Next:
 
-Thursday next week @18:30
-
-
-
+Thursday next week @18:30 in Republique: to be confirmed...
