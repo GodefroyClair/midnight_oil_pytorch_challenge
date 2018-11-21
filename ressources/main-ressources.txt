@@ -13,6 +13,7 @@ Slack workspace:
 pytorchfbchallenge.slack.com
 
 Facebook page:
+https://www.facebook.com/groups/248953999119398/
 
 Overleaf sumup of lesson 1:
 https://www.overleaf.com/read/cwfrhhbyxwdg

@@ -29,17 +29,15 @@ Working on lesson 3
 *Godefroy*:
 
 Free-lance Computer Vision developer for 2 months. Worked in robotics/iot before that. Followed machine learning MOOCS on Datacamp, Coursera, Udacity & Udemy.
-Finishing lesson 7
+Finishing lesson 7 - wants to do a quick first round and then rewatch the videos with the aim to help others.
 
 ## Ressources:
 
 - [Hands On Machine Learning, O'Reilly publisher from Aurélien Giron with Scikit-Learn and TensorFlow](http://shop.oreilly.com/product/0636920052289.do) (deep learning part translated [in French](https://numerique.dunod.com/805699/Deep-Learning-avec-TensorFlow.ebook))
-
-- [Learning Path on Safaribooksonline.com (not free!)] (LEARNING PATH: PyTorch: Deep Learning with PyTorch - Masterclass!)
-
-- Lesson 6 related : [A “paper” godot really recommend to check] (https://distill.pub/2018/differentiable-parameterizations)
-
+- [Learning Path on Safaribooksonline.com](LEARNING PATH: PyTorch: Deep Learning with PyTorch - Masterclass!) (/!\ not free)
+- Lesson 6 related : [A “paper” godot really recommend to check](https://distill.pub/2018/differentiable-parameterizations)
 - Lesson 6 related : [Also this one is also interesting](https://distill.pub/2017/feature-visualization/)
+[NB: more in the github repo!]
 
 ## Todo:
 
@@ -63,7 +61,7 @@ Finishing lesson 7
 
 ## Next:
 
-- Thursday next week @18:30
+Thursday next week @18:30
 
 
 
